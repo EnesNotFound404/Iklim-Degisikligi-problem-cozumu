@@ -11,6 +11,6 @@ Bu proje, **Google Teachable Machine** kullanılarak oluşturulmuş bir makine �
 - Görseller iki kategoriye ayrılır:
 - 
   - Geri Dönüştürülebilir (kağıt, cam, metal, plastik vb.)
-  - Geri Dönüştürülemez (Sakiz, Elektronik cihazlar, kucuk cam parcaciklari vb.)
+  - Geri Dönüştürülemez (Sakız, Bazı kumaşlar, kucuk cam parcaciklari vb.)
 
 
